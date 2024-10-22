@@ -38,10 +38,10 @@ Proceedings from the workshop will be published by ACM along with regular Comput
 
 #### Workshop co-chairs:
 The co-chairs:
- - Davide Schiavone, OpenHW Group, Switzerland 
+ - Davide Schiavone, EPFL, Switzerland 
  - Angelo Garofalo, ETH Zurich, Switzerland
- - Francesco Conti, University of Bologna, Italy
  - Alessio Burello, Polytechnic of Turin, Italy
+ - Alfonso Rodriguez, UPM, Spain
 
 For more information or any questions, please contact us.
 
