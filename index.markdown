@@ -40,7 +40,7 @@ Proceedings from the workshop will be published by ACM along with regular Comput
 The co-chairs:
  - Davide Schiavone, EPFL, Switzerland 
  - Angelo Garofalo, ETH Zurich, Switzerland
- - Alessio Burello, Polytechnic of Turin, Italy
+ - Alessio Burrello, Polytechnic of Turin, Italy
  - Alfonso Rodriguez, UPM, Spain
 
 For more information or any questions, please contact us.
