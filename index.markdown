@@ -5,14 +5,14 @@ layout: default
 # CF25-OSHW
 ## Workshop on Open-Source Hardware 
 
-***Co-located with 21th ACM International Conference on Computing Frontiers (CF' 24)***
-***May 7 - May 9, 2024 - Ischia (NA), Italy***
+***Co-located with 22nd ACM International Conference on Computing Frontiers (CF' 25)***
+***May 28 - May 30, 2025 - Cagliari, Sardinia, Italy***
 
-We are excited to announce a new workshop on the topic of open-source hardware, to be held concurrently with Computing Frontiers 2024.
+We are excited to announce the 3rd workshop on open-source hardware, to be held concurrently with Computing Frontiers 2025.
 
 #### Aim and Scope
 
-The workshop aims to bring together researchers and practitioners working in the fields of computer architecture, electrical engineering, and computer science to discuss and share their latest research and developments in open-source hardware and related open-source software. We welcome submissions on a wide range of topics, including but not limited to:
+The workshop aims to bring together researchers and practitioners in computer architecture, electrical engineering, and computer science to discuss and share their latest research and developments in open-source hardware and related open-source software. We welcome submissions on a wide range of topics, including but not limited to:
 
 - Design/implementation based on open-source processors, memory systems, and I/O devices
 - CAD tools and methodologies for hardware design based on open-source
@@ -24,7 +24,7 @@ The workshop aims to bring together researchers and practitioners working in the
 - Power and Energy-Efficient systems based on open-source
 - Hardware security and trust in open-source systems
 
-Submissions should be in the form of an **extended abstract (minimum 2, maximum 4 pages)**, formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted abstracts will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract is required to register for the whole Computing Frontiers 2024 conference.
+Submissions should be in the form of an **extended abstract (minimum 2, maximum 4 pages)**, formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted abstracts will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract **must register** for the Computing Frontiers 2025 conference.
 
 #### Submission page and information
 Submit at [https://easychair.org/my/conference?conf=cf24oshw](https://easychair.org/my/conference?conf=cf24oshw).
@@ -32,9 +32,9 @@ Submit at [https://easychair.org/my/conference?conf=cf24oshw](https://easychair.
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
 #### Important dates
- - Abstract submission deadline: **March 3, 2024**
- - Notification of acceptance: **March 10, 2024**
- - Camera ready deadline: **March 17, 2024**
+ - Abstract submission deadline: **March 3, 2025**
+ - Notification of acceptance: **March 10, 2025**
+ - Camera ready deadline: **March 17, 2025**
 
 #### Workshop co-chairs:
 The co-chairs:
