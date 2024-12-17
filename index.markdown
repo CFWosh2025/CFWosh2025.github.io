@@ -32,9 +32,9 @@ Submit at [https://easychair.org/my/conference?conf=cf24oshw](https://easychair.
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
 #### Important dates
- - Abstract submission deadline: **March 3, 2025**
- - Notification of acceptance: **March 10, 2025**
- - Camera ready deadline: **March 17, 2025**
+ - Paper submission deadline: **February 10, 2025**
+ - Notification of acceptance: **March 3, 2025**
+ - Camera-ready deadline: **March 31, 2025**
 
 #### Workshop co-chairs:
 The co-chairs:
