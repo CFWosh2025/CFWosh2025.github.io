@@ -24,7 +24,7 @@ The workshop aims to bring together researchers and practitioners in computer ar
 - Power and Energy-Efficient systems based on open-source
 - Hardware security and trust in open-source systems
 
-Submissions should be aligned to the Computing Frontier conference, **short papers (4 pages) or full papers (8 pages)**, formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted papers will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract **must register** for the Computing Frontiers 2025 conference.
+Submissions will be of **maximum 4 pages**, formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted papers will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract **must register** for the Computing Frontiers 2025 conference.
 
 #### Submission page and information
 Submit at [https://easychair.org/my/conference?conf=cf25oshw](https://easychair.org/my/conference?conf=cf25oshw).
