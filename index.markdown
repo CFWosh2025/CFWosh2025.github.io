@@ -27,7 +27,7 @@ The workshop aims to bring together researchers and practitioners in computer ar
 Submissions should be aligned to the Computing Frontier conference, **short papers (4 pages) or full papers (8 pages)**, formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted papers will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract **must register** for the Computing Frontiers 2025 conference.
 
 #### Submission page and information
-Submit at [https://easychair.org/my/conference?conf=cf24oshw](https://easychair.org/my/conference?conf=cf25oshw).
+Submit at [https://easychair.org/my/conference?conf=cf25oshw](https://easychair.org/my/conference?conf=cf25oshw).
 
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
