@@ -44,6 +44,7 @@ The co-chairs:
  - Angelo Garofalo, ETH Zurich, Switzerland
  - Alessio Burrello, Polytechnic of Turin, Italy
  - Alfonso Rodriguez, UPM, Spain
+ - Alessandro Capotondi, Università degli studi di Modena e Reggio Emilia, Italy
 
 For more information or any questions, please contact us.
 
