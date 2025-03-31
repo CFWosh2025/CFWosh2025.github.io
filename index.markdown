@@ -36,7 +36,7 @@ Proceedings from the workshop will be published by ACM along with regular Comput
 #### Important dates
  - Paper submission deadline: **March 09, 2025**
  - Notification of acceptance: **March 17, 2025**
- - Camera-ready deadline: **March 31, 2025**
+ - Camera-ready deadline: **April 7, 2025**
 
 #### Workshop co-chairs:
 The co-chairs:
